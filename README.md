@@ -12,12 +12,20 @@ cd jhenc
 ```
 
 Python or Bash?
+_
 ```bash
 python enc-sh.py
 ```
 for bash
-
+_
 ```bash
 python enc.py
 ```
+
+PYTHON ENC V2
+```bash
+python enca.py
+```
+
 for PYTHON
+_
